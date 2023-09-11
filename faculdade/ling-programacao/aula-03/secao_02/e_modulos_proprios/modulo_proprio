@@ -1,0 +1,5 @@
+Ao criar um arquivo .py, pode-se utilizar o terminal do sistema operacional para executá-lo;
+por exemplo: python meu_programa.py. Para que esse programa de fato execute,
+ele precisa ter a variável __name__ com valor "__main__",
+conforme mostra a Figura 3.10. Veja que dentro do __name__ == "__main__",
+a função main() é invocada, fazendo com que o script execute.

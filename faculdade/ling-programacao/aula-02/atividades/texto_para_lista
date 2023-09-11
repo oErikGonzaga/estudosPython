@@ -1,0 +1,11 @@
+Quantas vezes o autor menciona a palavra string ou strings.
+Esse tipo de raciocínio é a base para uma área de pesquisa e
+aplicação dedicada a criar algoritmos e técnicas para fazer análise de sentimentos em textos.
+Veja no código a seguir, como é simples fazer essa contagem, usando as operações que as listas possuem.
+
+texto = """Operadores de String
+
+Python oferece operadores para processar texto (ou seja, valores de string).
+Assim como os números, as strings podem ser comparadas usando operadores de comparação:
+==, !=, <, > e assim por diante.
+O operador ==, por exemplo, retorna True se as strings nos dois lados do operador tiverem o mesmo valor (Perkovic, p. 23, 2016).

@@ -1,0 +1,7 @@
+1: 
+    import moduloXXText
+
+1.2:
+    import moduloXX as apelido
+
+2: from moduloXX import itemA, itemB

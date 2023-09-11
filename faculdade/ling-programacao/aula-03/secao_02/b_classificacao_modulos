@@ -1,0 +1,5 @@
+Podemos classificar os módulos (bibliotecas) em três categorias:
+
+1. Módulos built-in: embutidos no interpretador.
+2. Módulos de terceiros: criados por terceiros e disponibilizados via PyPI.
+3. Módulos próprios: criados pelo desenvolvedor.

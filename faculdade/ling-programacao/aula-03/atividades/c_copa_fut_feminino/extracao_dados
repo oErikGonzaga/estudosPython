@@ -1,0 +1,5 @@
+Vamos utilizar a biblioteca requests para extrair informações da Copa do Mundo de Futebol Feminino,
+que aconteceu no ano de 2019. As informações estão disponíveis no endereço
+http://worldcup.sfg.io/matches, no formato chave:valor.
+Após extrair as informações, vamos gerar um relatório que contém informações de cada jogo no seguinte formato:
+(dia/mes/ano) - time 1 x time 2 = gols time 1 a gols time 2.

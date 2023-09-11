@@ -1,0 +1,16 @@
+vamos implementar a solução
+representada no diagrama de classes da Figura 3.4, na qual temos uma classe-base
+chamada ContaCorrente com os seguintes campos:
+
+•   Nome, que é do tipo string e deve ser público.
+•   Email, que é do tipo string e deve ser público.
+•   Telefone, que é do tipo string e deve ser público.
+•   Saldo, que é do tipo ponto flutuante e deve ser público.
+
+A classe-base conta ainda com os métodos:
+•   Depositar, que recebe como parâmetro um valor, não retorna nada e deve ser público.
+•   Obter saldo, que não recebe nenhum parâmetro, retorna um ponto flutuante e deve ser público.
+•   Sacar, que recebe como parâmetro um valor, retorna se foi possível sacar (booleano) e deve ser público.
+•   Checar saldo, que não recebe nenhum parâmetro, retorna um booleano e deve ser privado,
+    ou seja, será usado internamente pela própria classe.
+

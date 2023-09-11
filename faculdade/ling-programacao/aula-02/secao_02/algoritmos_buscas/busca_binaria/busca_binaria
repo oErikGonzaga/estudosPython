@@ -1,0 +1,26 @@
+A busca binária possui complexidade O(log2 N) (STEPHENS, 2013).
+Isso significa que, para valores grandes de N (listas grandes),
+o desempenho desse algoritmo é melhor se comparado à busca sequencial,
+que tem complexidade O(N).
+
+Pseudocódigo para a busca binária:
+
+Integer: BinarySearch(Data values[], Data target)
+    Integer: min = 0
+    Integer: max = - 1
+    While (min <= max)
+
+      // Find the dividing item.
+      Integer: mid = (min + max) / 2
+
+      // See if we need to search the left or right half.
+      If (target < values[mid]) Then max = mid - 1
+        Else If (target > values[mid]) Then min = mid + 1
+
+      Else Return mid
+    End While
+
+    // If we get here, the target is not in the array.
+    Return -1
+
+  End BinarySearch
