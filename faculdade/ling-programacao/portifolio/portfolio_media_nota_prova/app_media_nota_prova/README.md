@@ -6,8 +6,8 @@ Este é um programa simples em Python que calcula a média de notas de um aluno 
 
 O diagrama de blocos para esta situação foi desenvolvido em um documento separado usando o software Illustrator.
 
-![Diagrama de Blocos](https://1drv.ms/i/s!AnwJyryEdHw0gr19_dfpQp0Gf79EvA?e=0zp5Mh)
-![Diagrama de Blocos](https://1drv.ms/i/s!AnwJyryEdHw0gr18ADTwXMwv04sGtw?e=bG6YII)
+![Diagrama de Blocos](https://github.com/oErikGonzaga/estudosPython/blob/main/faculdade/ling-programacao/portifolio/portfolio_media_nota_prova/app_media_nota_prova/diagrama/diagrama.png)
+![Legenda](https://github.com/oErikGonzaga/estudosPython/blob/main/faculdade/ling-programacao/portifolio/portfolio_media_nota_prova/app_media_nota_prova/diagrama/diagrama_legenda.png)
 
 ## Instruções de Uso
 
